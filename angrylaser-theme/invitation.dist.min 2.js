@@ -1,1 +1,0 @@
-require(["frameworksBuild","locale!cjtBuild","app/invitation.cmb"],(function(){"use strict";require(["app/invitation"],(function(i){i()}))}));
